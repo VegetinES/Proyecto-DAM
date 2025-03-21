@@ -1048,3 +1048,6 @@ sysinfo.txt
 # OTROS:
 
 Ignora/
+*.ppk
+_gsdata_/
+UCLM-FCT/Library/PackageCache/
